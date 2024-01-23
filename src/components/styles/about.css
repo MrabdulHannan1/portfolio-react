@@ -1,0 +1,61 @@
+section {
+  background: rgb(207, 206, 206);
+}
+.about {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  font-size: 25px;
+  margin: 0 auto;
+}
+.about h1 {
+  padding-bottom: 50px;
+  font-weight: 900;
+  font: size 40px;
+}
+/* Add these styles to your CSS file */
+.skillh {
+  margin-top: 3%;
+  display: flex;
+  margin-left: 400px;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+}
+.skill-card {
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  font-size: 20px;
+  margin: 0 auto;
+  background-color: #534c4c;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 100px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skill-card h2 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+/* Add any additional styles based on your design preferences */
+.skills {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  padding-top: 50px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  font-weight: 900;
+  font-size: xx-large;
+}
